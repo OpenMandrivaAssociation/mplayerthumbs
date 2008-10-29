@@ -7,6 +7,9 @@ URL:           http://kde-apps.org/content/show.php/MPlayerThumbs?content=41180
 License:       GPL
 Group:         Graphical desktop/KDE
 BuildRoot:     %{_tmppath}/%{name}-buildroot
+
+BuildRequires: kdelibs4-devel
+
 Requires:      mplayer
 
 %description
