@@ -1,7 +1,7 @@
 Name:          mplayerthumbs
 Summary:       Video thumbnail generator for KDE4 file managers
 Version:       1.1
-Release:       %mkrel 1
+Release:       %mkrel 2
 Source:        41180-%name-%version.tar.bz2
 URL:           http://kde-apps.org/content/show.php/MPlayerThumbs?content=41180
 License:       GPL
