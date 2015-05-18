@@ -1,5 +1,5 @@
 Name:		mplayerthumbs
-Version:	15.04.0
+Version:	15.04.1
 Release:	1
 Epoch:		3
 Summary:	Video thumbnail generator for KDE4 file managers
@@ -8,7 +8,7 @@ License:	GPLv2
 URL:		https://projects.kde.org/projects/kde/kdemultimedia/mplayerthumbs
 Source:		ftp://ftp.kde.org/pub/kde/stable/%{version}/src/%{name}-%{version}.tar.xz
 BuildRequires:	kdelibs4-devel
-Requires:	kdebase4-runtime
+Requires:	kde-runtime
 
 %description
 MPlayerThumbs is a video thumbnail generator for KDE file managers
