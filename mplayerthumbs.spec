@@ -1,6 +1,6 @@
 Name:		mplayerthumbs
 Version:	15.04.3
-Release:	1
+Release:	2
 Epoch:		3
 Summary:	Video thumbnail generator for KDE4 file managers
 Group:		Graphical desktop/KDE
