@@ -1,2 +1,4 @@
-sources:
+removed_sources:
   mplayerthumbs-15.08.0.tar.xz: da6c38f8be63ad9d688edd1a3f10de453d502fbe
+sources:
+  mplayerthumbs-15.08.1.tar.xz: 0f3bc25c635a168cf0870c9ad687a83ca6d64295
