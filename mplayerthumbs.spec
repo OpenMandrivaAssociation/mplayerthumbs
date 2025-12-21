@@ -7,6 +7,7 @@ Group:		Graphical desktop/KDE
 License:	GPLv2
 URL:		https://projects.kde.org/projects/kde/kdemultimedia/mplayerthumbs
 Source:		http://download.kde.org/stable/applications/%{version}/src/%{name}-%{version}.tar.xz
+BuildRequires:	make
 BuildRequires:	kdelibs-devel
 Requires:	kde-runtime
 
